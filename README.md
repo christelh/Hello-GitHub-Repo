@@ -11,4 +11,8 @@ My favorite color:
 
 > Red
 
+My favorite animal:
+
+> Cat
+
 Thank you so much for reading! ☺
